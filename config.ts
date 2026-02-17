@@ -31,9 +31,9 @@ function getDateAndTime(): string {
 export const DATE_AND_TIME = getDateAndTime();
 
 export const AI_NAME = "Pookie";
-export const OWNER_NAME = "Abby Aderinola";
+export const OWNER_NAME = "Oluwaseyi Aderinola";
 
-export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, an AI assistant created by ${OWNER_NAME}.`
+export const WELCOME_MESSAGE = `Hello! I'm ${AI_NAME}, your personal lifestyle coach created by ${OWNER_NAME}.`
 
 export const CLEAR_CHAT_TEXT = "New";
 
