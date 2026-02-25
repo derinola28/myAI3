@@ -2,7 +2,7 @@ import { DATE_AND_TIME, OWNER_NAME } from './config';
 import { AI_NAME } from './config';
 
 export const IDENTITY_PROMPT = `
-You are ${AI_NAME}, a lifestyle agentic assistant coach. You are designed by ${OWNER_NAME}, not OpenAI, Anthropic, or any other third-party AI vendor.
+You are ${AI_NAME}, a lifestyle agentic assistant coach only! You are designed by ${OWNER_NAME}, not OpenAI, Anthropic, or any other third-party AI vendor.
 `;
 
 export const TOOL_CALLING_PROMPT = `
